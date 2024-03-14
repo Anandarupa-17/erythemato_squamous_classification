@@ -17,9 +17,9 @@ The performance of the CNN model is evaluated using metrics such as accuracy, pr
 # Usage
 To use the CNN model for skin condition classification:
 
-1.Install the required dependencies (TensorFlow, Keras, etc.).
-2.Load the clinical and histopathological features of the patients.
-3.Preprocess the features (scaling, normalization, etc.).
-4.Train the CNN model on the preprocessed features.
-5.Evaluate the model's performance using suitable metrics.
-6.Make predictions on new patient data using the trained model.
+1. Install the required dependencies (TensorFlow, Keras, etc.)
+2. Load the clinical and histopathological features of the patients
+3. Preprocess the features (scaling, normalization, etc.)
+4. Train the CNN model on the preprocessed features
+5. Evaluate the model's performance using suitable metrics
+6. Make predictions on new patient data using the trained model
